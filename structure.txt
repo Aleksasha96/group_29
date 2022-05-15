@@ -1,0 +1,16 @@
+  Bug Title
+  Bug ID
+  Build Number
+  Environment
+  Severity
+  Priority
+  Assigned to
+  Reported by
+  Reported on
+  Type
+  Status
+  Description
+  Steps to reproduce
+  Expected result
+  Actual Result
+  Attachment
